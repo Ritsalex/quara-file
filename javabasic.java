@@ -1,5 +1,5 @@
 public class javabasic{
-    public static void main(string args[]){
-        system.out.print("hello adrika!");
+    public static void main(String args[]){
+        System.out.println("hello adrika");
     }
 }
